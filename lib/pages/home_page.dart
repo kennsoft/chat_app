@@ -121,7 +121,7 @@ class _HomePageState extends State<HomePage> {
                     borderRadius: BorderRadius.circular(60),
                   ),
                   child: Image.asset(
-                    'assets/images/search.png',
+                    'assets/images/facebook.png',
                     height: 40,
                     width: 40,
                     fit: BoxFit.cover,
@@ -137,7 +137,7 @@ class _HomePageState extends State<HomePage> {
                     borderRadius: BorderRadius.circular(60),
                   ),
                   child: Image.asset(
-                    'assets/images/search.png',
+                    'assets/images/x.png',
                     height: 40,
                     width: 40,
                     fit: BoxFit.cover,
@@ -153,7 +153,7 @@ class _HomePageState extends State<HomePage> {
                     borderRadius: BorderRadius.circular(60),
                   ),
                   child: Image.asset(
-                    'assets/images/search.png',
+                    'assets/images/google.png',
                     height: 40,
                     width: 40,
                     fit: BoxFit.cover,
