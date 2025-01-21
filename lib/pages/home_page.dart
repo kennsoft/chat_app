@@ -75,6 +75,7 @@ class _HomePageState extends State<HomePage> {
                     fontSize: 25.0,
                     fontWeight: FontWeight.w700,
                   ),
+                  
                 ),
               ),
             ),
@@ -158,6 +159,9 @@ class _HomePageState extends State<HomePage> {
                     width: 40,
                     fit: BoxFit.cover,
                   ),
+                ),
+                const SizedBox(
+                  height: 20,
                 ),
               ],
             )

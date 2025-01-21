@@ -40,6 +40,7 @@ dependencies:
   flutter_launcher_icons: ^0.14.2
   font_awesome_flutter: ^10.8.0
   rename: ^3.0.2
+  sign_in_button: ^3.2.0
 
 dev_dependencies:
   flutter_test:
